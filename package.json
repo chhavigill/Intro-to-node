@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "18.10.0",
+  "description": "simple web app",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chhavigill/Intro-to-node.git"
+  },
+  "author": "chhavi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chhavigill/Intro-to-node/issues"
+  },
+  "homepage": "https://github.com/chhavigill/Intro-to-node#readme"
+}
